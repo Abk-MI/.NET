@@ -1,0 +1,9 @@
+c:\users\med issam\source\repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+c:\users\med issam\source\repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+c:\users\med issam\source\repos\ClassLibrary\ClassLibrary\obj\Debug\CoucheDAO.csproj.CoreCompileInputs.cache
+c:\users\med issam\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+c:\users\med issam\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+c:\users\med issam\source\repos\ClassLibrary\ClassLibrary\bin\Debug\MySql.Data.dll
+c:\users\med issam\source\repos\ClassLibrary\ClassLibrary\bin\Debug\Google.Protobuf.dll
+c:\users\med issam\source\repos\ClassLibrary\ClassLibrary\bin\Debug\MySql.Data.xml
+C:\Users\Med Issam\source\repos\ClassLibrary\ClassLibrary\obj\Debug\CoucheDAO.csprojResolveAssemblyReference.cache
